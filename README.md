@@ -14,7 +14,7 @@ Nauczyciel podaje temat, grupę, czas, swoje wytyczne (zapamiętywane w przeglą
 
 Pomysł z rozmowy z nauczycielką edukacji wczesnoszkolnej, która chciała „aplikację dla nauczycieli robiącą gotowe konspekty zajęć według moich wytycznych”, bez kilkunastu godzin przygotowań.
 
-**Live:** https://konspekt.vercel.app
+**Live:** https://konspekt-zajec.vercel.app
 
 ## Jak działa
 - `data/annex1-preschool.txt`, `data/annex2-klasy-1-3.txt` to tekst rozporządzenia. `scripts/parse.mjs` robi z załącznika nr 2 plik `data/klasy-1-3.json` (293 wymagania w 9 edukacjach, kody typu `5.1.f`, i 17 doświadczeń edukacyjnych). `data/przedszkole.json` to 113 osiągnięć przedszkolnych z projektu [wpis-z-dnia](https://github.com/Wikiist/wpis-z-dnia).
@@ -27,3 +27,5 @@ Pomysł z rozmowy z nauczycielką edukacji wczesnoszkolnej, która chciała „a
 node --test
 GEMINI_API_KEY=... vercel dev
 ```
+
+Zbudowane z Claude Code przez Wiktora Grzyba ([zapytaj moje AI](https://ask-wiktor.vercel.app/?lang=pl)).
