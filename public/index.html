@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Konspekt · gotowe zajęcia według Twoich wytycznych</title>
+<meta name="description" content="Temat i kilka wytycznych zamieniają się w gotowy konspekt zajęć dla przedszkola i klas I–III: cele, kody z nowej podstawy programowej (2026), przebieg z pytaniami, pomoce i dostosowania dla dzieci o specjalnych potrzebach.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  /* Same family as Wpis z dnia and KidStella: cream room, navy ink, orange action, yellow marker for curriculum codes */
+  :root { --bg:#fff7eb; --paper:#ffffff; --ink:#17294a; --muted:#5b6782; --line:#ecdcc4; --blue:#1450b8; --blue-soft:#e3eafb; --accent:#ff8b3d; --accent-deep:#d9681c; --marker:#ffe08a; --shadow:0 6px 20px rgba(23,41,74,.08); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#0f1a33; --paper:#17264a; --ink:#fff4e3; --muted:#b9c3dc; --line:#2a3c66; --blue:#9db8ff; --blue-soft:#24386a; --accent:#ff9a55; --accent-deep:#d9681c; --marker:rgba(255,215,94,.35); --shadow:0 6px 20px rgba(0,0,0,.3); color-scheme: dark; } }
+  :root[data-theme="dark"] { --bg:#0f1a33; --paper:#17264a; --ink:#fff4e3; --muted:#b9c3dc; --line:#2a3c66; --blue:#9db8ff; --blue-soft:#24386a; --accent:#ff9a55; --accent-deep:#d9681c; --marker:rgba(255,215,94,.35); --shadow:0 6px 20px rgba(0,0,0,.3); color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin:0; background: var(--bg); color: var(--ink); font: 16px/1.55 Nunito, "Segoe UI", system-ui, sans-serif; }
+  main { max-width: 1120px; margin: 0 auto; padding: 28px max(16px, env(safe-area-inset-left)) 40px max(16px, env(safe-area-inset-right)); }
+  header { display:flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; margin-bottom: 18px; }
+  h1 { font-family: "Baloo 2", Nunito, system-ui, sans-serif; font-weight: 800; font-size: 40px; line-height: 1.05; margin: 0; letter-spacing: -.3px; }
+  h1 span { background: linear-gradient(transparent 58%, var(--marker) 58%, var(--marker) 92%, transparent 92%); padding: 0 3px; }
+  .lede { color: var(--muted); margin: 8px 0 0; max-width: 64ch; font-size: 16.5px; }
+  .badge { font: 700 13px "Baloo 2", Nunito, sans-serif; color: var(--blue); background: var(--blue-soft); border-radius: 999px; padding: 6px 13px; white-space: nowrap; }
+  .tools { display:flex; gap: 8px; align-items: center; }
+  .theme { font: 700 15px Nunito, sans-serif; width: 36px; height: 32px; border-radius: 999px; background: var(--paper); color: var(--ink); border: 2px solid var(--line); cursor: pointer; line-height: 1; }
+  .theme:hover { border-color: var(--accent); }
+  .grid { display:grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 18px; align-items: start; }
+  @media (max-width: 880px) { .grid { grid-template-columns: 1fr; } h1 { font-size: 32px; } }
+  .card { background: var(--paper); border-radius: 20px; padding: 18px 20px; box-shadow: var(--shadow); min-width: 0; }
+  label.big { font: 700 18px "Baloo 2", Nunito, sans-serif; display:block; margin: 0 0 6px; }
+  .field { margin-top: 14px; }
+  input[type=text], textarea, select { width:100%; font: inherit; padding: 10px 13px; border-radius: 14px; border: 2px solid var(--line); background: var(--bg); color: var(--ink); }
+  textarea { min-height: 120px; resize: vertical; }
+  input:focus, textarea:focus, select:focus, button:focus-visible { outline: 3px solid var(--marker); outline-offset: 1px; }
+  .two { display:grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .hint { font-size: 13.5px; color: var(--muted); margin: 6px 0 0; }
+  .pills { display:flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+  .pill { font: 700 13.5px Nunito, sans-serif; background: var(--paper); color: var(--ink); border: 2px solid var(--line); border-radius: 999px; padding: 4px 11px; cursor: pointer; }
+  .pill:hover { border-color: var(--accent); }
+  .pill[aria-pressed="true"] { background: var(--blue-soft); border-color: var(--blue); color: var(--blue); }
+  .saved { font-size: 13px; color: var(--muted); min-height: 1em; }
+  .btns { display:flex; gap: 10px; flex-wrap: wrap; margin-top: 16px; }
+  button.primary { font: 800 17px "Baloo 2", Nunito, sans-serif; background: var(--accent); color: #fff; border: 0; border-radius: 16px; padding: 10px 22px; cursor: pointer; box-shadow: 0 4px 0 var(--accent-deep); transition: transform .1s, box-shadow .1s; }
+  button.primary:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--accent-deep); }
+  button.primary:disabled { opacity: .55; cursor: default; }
+  button.ghost { font: 700 15px Nunito, sans-serif; background: var(--paper); color: var(--ink); border: 2px solid var(--line); border-radius: 16px; padding: 9px 16px; cursor: pointer; }
+  button.ghost:hover { border-color: var(--accent); }
+  .out h2 { font-family: "Baloo 2", Nunito, sans-serif; font-weight: 800; font-size: 25px; line-height: 1.15; margin: 0 0 4px; }
+  .meta { color: var(--muted); font-size: 14.5px; }
+  .section { border-top: 2px dashed var(--line); padding-top: 12px; margin-top: 12px; }
+  .section:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
+  .label { font: 700 12.5px Nunito, sans-serif; letter-spacing: .9px; text-transform: uppercase; color: var(--blue); margin-bottom: 6px; display:flex; justify-content: space-between; align-items:center; gap: 8px; }
+  .btnset { display:flex; gap: 6px; flex-wrap: wrap; }
+  .copy { font: 700 12.5px Nunito, sans-serif; text-transform: none; letter-spacing: 0; background: var(--paper); color: var(--ink); border: 2px solid var(--line); border-radius: 10px; padding: 3px 10px; cursor: pointer; }
+  .copy:hover { border-color: var(--accent); }
+  ul.plain { margin: 0; padding-left: 20px; }
+  ul.plain li { margin: 2px 0; }
+  .codes { display:flex; flex-direction: column; gap: 9px; margin: 0; padding: 0; list-style: none; }
+  .codes li { display:grid; grid-template-columns: auto 1fr; gap: 10px; align-items: start; }
+  .code { font: 800 15px "Baloo 2", Nunito, sans-serif; background: var(--marker); border-radius: 8px; padding: 1px 8px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .codes small { display:block; color: var(--muted); }
+  .steps { list-style: none; margin: 0; padding: 0; display:flex; flex-direction: column; gap: 10px; }
+  .step { background: var(--bg); border-radius: 14px; padding: 10px 12px; }
+  .step h3 { font: 800 16.5px "Baloo 2", Nunito, sans-serif; margin: 0 0 4px; display:flex; gap: 8px; align-items: baseline; }
+  .min { font: 800 13px "Baloo 2", Nunito, sans-serif; background: var(--blue-soft); color: var(--blue); border-radius: 8px; padding: 0 7px; white-space: nowrap; }
+  .step p { margin: 3px 0; }
+  .step b { color: var(--blue); font-weight: 700; }
+  .q { margin: 4px 0 0; padding-left: 18px; color: var(--ink); }
+  .q li { font-style: italic; }
+  .cols { display:grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 8px; }
+  .cols div { background: var(--bg); border-radius: 12px; padding: 8px 10px; }
+  .cols b { display:block; font-family: "Baloo 2", Nunito, sans-serif; color: var(--blue); }
+  .warn { color: #c0392b; font-weight: 700; }
+  .empty { color: var(--muted); text-align: center; padding: 44px 10px; }
+  .error { color: #c0392b; font-weight: 700; }
+  footer { margin-top: 22px; font-size: 13.5px; color: var(--muted); }
+  .spinner { display:inline-block; width: 14px; height: 14px; border: 2px solid currentColor; border-right-color: transparent; border-radius: 50%; animation: spin .8s linear infinite; vertical-align: -2px; margin-right: 6px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .spinner { animation: none; } button.primary { transition: none; } }
+  @media print { header .tools, .card:first-child, .copy, .btns, footer { display:none !important; } .grid { display:block; } .card { box-shadow:none; padding:0; } body { background:#fff; color:#000; } .step, .cols div { background:#f6f6f6; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div>
+      <h1><span>Konspekt</span></h1>
+      <p class="lede">Temat zajęć i Twoje wytyczne zamieniają się w gotowy konspekt: cele, kody z nowej podstawy programowej, przebieg z pytaniami do dzieci, pomoce i dostosowania. Na jutro, bez wieczoru przy biurku.</p>
+    </div>
+    <div class="tools">
+      <span class="badge">Przedszkole i klasy I–III · Dz.U. 2026 poz. 378</span>
+      <button type="button" class="theme" id="theme"></button>
+    </div>
+  </header>
+
+  <div class="grid">
+    <section class="card" aria-labelledby="in-h">
+      <label class="big" id="in-h" for="topic">Temat zajęć</label>
+      <input type="text" id="topic" maxlength="300" placeholder="Np. Skąd wiemy, jak żyli nasi przodkowie? albo: Kodowanie bez komputera">
+      <div class="two field">
+        <div><label class="big" for="level">Grupa</label>
+          <select id="level">
+            <option value="przedszkole-3-4">Przedszkole, 3–4 lata</option>
+            <option value="przedszkole-5-6">Przedszkole, 5–6 lat</option>
+            <option value="klasa-1" selected>Klasa I</option>
+            <option value="klasa-2">Klasa II</option>
+            <option value="klasa-3">Klasa III</option>
+          </select></div>
+        <div><label class="big" for="minutes">Czas</label>
+          <select id="minutes">
+            <option value="20">20 minut</option><option value="30">30 minut</option><option value="45" selected>45 minut</option><option value="60">60 minut</option><option value="90">90 minut</option>
+          </select></div>
+      </div>
+      <div class="field">
+        <label class="big" for="guidelines">Moje wytyczne</label>
+        <textarea id="guidelines" maxlength="1500" placeholder="Jak lubisz prowadzić zajęcia? Np. prawdziwe materiały zamiast bajkowych obrazków, dzieci mają myśleć, a nie zgadywać, bez naklejek i nagród…"></textarea>
+        <div class="pills" id="guide-pills" aria-label="Dodaj gotową wytyczną"></div>
+        <p class="saved" id="saved"></p>
+      </div>
+      <div class="field">
+        <span class="big" style="font:700 18px 'Baloo 2',Nunito,sans-serif">Dzieci, które potrzebują dostosowań</span>
+        <div class="pills" id="needs" role="group" aria-label="Potrzeby w grupie"></div>
+        <input type="text" id="needs-other" maxlength="80" placeholder="Inne, np. dziecko z Ukrainy uczące się polskiego" style="margin-top:8px">
+      </div>
+      <p class="hint">Nie wpisuj danych dzieci. Wytyczne zapisują się tylko w tej przeglądarce; nic nie trafia do żadnej bazy.</p>
+      <div class="btns">
+        <button class="primary" id="go">Przygotuj konspekt</button>
+        <button class="ghost" id="example" type="button">Wstaw przykład</button>
+      </div>
+    </section>
+
+    <section class="card out" id="out" aria-live="polite">
+      <div class="empty">Tu pojawi się konspekt z celami, kodami z podstawy i przebiegiem zajęć.<br>Możesz zacząć od przykładu.</div>
+    </section>
+  </div>
+
+  <footer>Źródło: rozporządzenie MEN z 11 marca 2026 r. (Dz.U. 2026 poz. 378), załącznik nr 1 (przedszkole) i nr 2, I etap edukacyjny (klasy I–III). Kody są sprawdzane z tekstem rozporządzenia. Konspekt to propozycja do przejrzenia przez nauczyciela.</footer>
+</main>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+
+  // theme
+  const themeBtn = $("theme");
+  const sysDark = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : { matches: false };
+  let theme = store.get("konspektTheme");
+  const isDark = () => (theme ? theme === "dark" : sysDark.matches);
+  function applyTheme() {
+    if (theme) document.documentElement.dataset.theme = theme; else delete document.documentElement.dataset.theme;
+    const dark = isDark();
+    themeBtn.textContent = dark ? "☀" : "☾";
+    const label = dark ? "Włącz tryb jasny" : "Włącz tryb ciemny";
+    themeBtn.setAttribute("aria-label", label); themeBtn.title = label;
+  }
+  themeBtn.addEventListener("click", () => { theme = isDark() ? "light" : "dark"; store.set("konspektTheme", theme); applyTheme(); });
+  applyTheme();
+
+  // guidelines, remembered in this browser
+  const guide = $("guidelines");
+  guide.value = store.get("konspektGuidelines") || "";
+  let t;
+  guide.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => { store.set("konspektGuidelines", guide.value); $("saved").textContent = guide.value ? "Zapisane w tej przeglądarce." : ""; }, 400); });
+  if (guide.value) $("saved").textContent = "Twoje wytyczne z poprzedniej wizyty.";
+  const GUIDES = [
+    "Prawdziwe materiały i przedmioty zamiast bajkowych ilustracji.",
+    "Dzieci mają myśleć, a nie zgadywać z dwóch odpowiedzi.",
+    "Bez naklejek i nagród za każde zadanie.",
+    "Bez ekranów.",
+    "Dużo ruchu, zajęcia częściowo na dworze.",
+    "Matematyka i kodowanie od rytmu, ruchu i klocków.",
+    "Sprawy wiary i wartości zostawiamy rozmowie w domu.",
+    "Krótkie zadanie dla rodzica i dziecka na wieczór.",
+  ];
+  const gp = $("guide-pills");
+  for (const g of GUIDES) {
+    const b = document.createElement("button"); b.type = "button"; b.className = "pill"; b.textContent = "+ " + g.replace(/\.$/, "");
+    b.addEventListener("click", () => { if (!guide.value.includes(g)) { guide.value = (guide.value.trim() ? guide.value.trim() + " " : "") + g; guide.dispatchEvent(new Event("input")); } });
+    gp.appendChild(b);
+  }
+
+  // needs
+  const NEEDS = ["ADHD", "spektrum autyzmu", "dysleksja", "niedosłuch", "mutyzm wybiórczy", "zdolne dzieci, które się nudzą"];
+  const needsBox = $("needs");
+  for (const n of NEEDS) {
+    const b = document.createElement("button"); b.type = "button"; b.className = "pill"; b.textContent = n; b.setAttribute("aria-pressed", "false");
+    b.addEventListener("click", () => b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") === "true" ? "false" : "true"));
+    needsBox.appendChild(b);
+  }
+  const chosenNeeds = () => [...needsBox.querySelectorAll('[aria-pressed="true"]')].map((b) => b.textContent).concat($("needs-other").value.trim() ? [$("needs-other").value.trim()] : []);
+
+  const EXAMPLES = [
+    { topic: "Skąd wiemy, jak żyli nasi przodkowie? Ewolucja człowieka", level: "klasa-3", minutes: "45", needs: ["ADHD", "spektrum autyzmu", "dysleksja"], guide: [0, 1, 2, 6] },
+    { topic: "Kodowanie bez komputera: prowadzimy robota po dywanie", level: "przedszkole-5-6", minutes: "30", needs: ["zdolne dzieci, które się nudzą"], guide: [3, 5] },
+    { topic: "Ślimaki i ich muszle: czym różnią się zwierzęta tego samego gatunku", level: "klasa-1", minutes: "45", needs: ["niedosłuch"], guide: [0, 4, 7] },
+  ];
+  let ex = 0;
+  $("example").addEventListener("click", () => {
+    const e = EXAMPLES[ex++ % EXAMPLES.length];
+    $("topic").value = e.topic; $("level").value = e.level; $("minutes").value = e.minutes;
+    needsBox.querySelectorAll(".pill").forEach((b) => b.setAttribute("aria-pressed", e.needs.includes(b.textContent) ? "true" : "false"));
+    if (!store.get("konspektGuidelines")) guide.value = e.guide.map((i) => GUIDES[i]).join(" ");
+  });
+
+  // render
+  const esc = (s) => String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const ul = (xs) => xs.length ? '<ul class="plain">' + xs.map((x) => `<li>${esc(x)}</li>`).join("") + "</ul>" : "";
+  const out = $("out"), go = $("go");
+  const texts = {};
+  const copyBtn = (k, label = "Kopiuj") => `<button class="copy" type="button" data-copy="${k}">${label}</button>`;
+  function planText(r, meta) {
+    const L = [];
+    L.push(`Temat: ${r.temat}`, meta, "", `Cel ogólny: ${r.cel_ogolny}`, "", "Cele operacyjne:", ...r.cele.map((c) => `- ${c}`), "");
+    L.push("Podstawa programowa:", ...r.podstawa.map((p) => `- ${p.code} ${p.text}`), "");
+    L.push(`Metody: ${r.metody.join(", ")}`, `Formy pracy: ${r.formy.join(", ")}`, `Pomoce: ${r.pomoce.join(", ")}`, "", "Przebieg zajęć:");
+    r.przebieg.forEach((e, i) => { L.push(`${i + 1}. ${e.etap} (${e.minuty} min)`, `   Nauczyciel: ${e.nauczyciel}`, `   Dzieci: ${e.dzieci}`); if (e.pytania.length) L.push(`   Pytania: ${e.pytania.join(" / ")}`); });
+    L.push("", "Różnicowanie:", `- Dla dzieci, które szybko kończą: ${r.roznicowanie.szybciej}`, `- Dla dzieci potrzebujących wsparcia: ${r.roznicowanie.wsparcie}`, ...r.roznicowanie.potrzeby.map((p) => `- ${p.potrzeba}: ${p.dostosowanie}`));
+    L.push("", `Sprawdzenie: ${r.sprawdzenie}`, `Bezpieczeństwo: ${r.bezpieczenstwo}`, "", `Dla rodziców: ${r.dla_rodzicow}`, "", `Wpis do dziennika: ${r.wpis_do_dziennika}`);
+    return L.join("\n");
+  }
+  function render(r, req) {
+    const levelLabel = $("level").selectedOptions[0].textContent;
+    const meta = `${levelLabel} · ${req.minutes} minut`;
+    texts.plan = planText(r, meta); texts.parents = r.dla_rodzicow; texts.diary = r.wpis_do_dziennika;
+    const timeWarn = r.minuty_razem && r.minuty_razem !== Number(req.minutes) ? ` <span class="warn">(etapy razem: ${r.minuty_razem} min)</span>` : "";
+    out.innerHTML = `
+      <div class="section"><div class="label">Konspekt <span class="btnset">${copyBtn("plan", "Kopiuj całość")}<button class="copy" type="button" id="print">Drukuj</button></span></div>
+        <h2>${esc(r.temat)}</h2><div class="meta">${esc(meta)}${timeWarn}</div></div>
+      <div class="section"><div class="label">Cele</div><p><b>Cel ogólny:</b> ${esc(r.cel_ogolny)}</p>${ul(r.cele)}</div>
+      <div class="section"><div class="label">Podstawa programowa</div><ul class="codes">${r.podstawa.map((c) => `<li><span class="code">${esc(c.code)}</span><div>${esc(c.why)}<small>${esc(c.area)}: „${esc(c.text)}”</small></div></li>`).join("")}</ul></div>
+      <div class="section"><div class="label">Metody, formy, pomoce</div><div class="cols">
+        <div><b>Metody</b>${ul(r.metody)}</div><div><b>Formy pracy</b>${ul(r.formy)}</div><div><b>Pomoce</b>${ul(r.pomoce)}</div></div></div>
+      <div class="section"><div class="label">Przebieg zajęć</div><ol class="steps">${r.przebieg.map((e) => `<li class="step"><h3><span class="min">${e.minuty} min</span>${esc(e.etap)}</h3>
+        <p><b>Nauczyciel:</b> ${esc(e.nauczyciel)}</p><p><b>Dzieci:</b> ${esc(e.dzieci)}</p>${e.pytania.length ? `<ul class="q">${e.pytania.map((q) => `<li>${esc(q)}</li>`).join("")}</ul>` : ""}</li>`).join("")}</ol></div>
+      <div class="section"><div class="label">Różnicowanie i dostosowania</div><div class="cols">
+        <div><b>Kto szybko kończy</b>${esc(r.roznicowanie.szybciej)}</div><div><b>Kto potrzebuje wsparcia</b>${esc(r.roznicowanie.wsparcie)}</div>
+        ${r.roznicowanie.potrzeby.map((p) => `<div><b>${esc(p.potrzeba)}</b>${esc(p.dostosowanie)}</div>`).join("")}</div></div>
+      <div class="section"><div class="label">Jak sprawdzić, co dzieci zrozumiały</div><p>${esc(r.sprawdzenie)}</p></div>
+      ${r.bezpieczenstwo ? `<div class="section"><div class="label">Bezpieczeństwo</div><p>${esc(r.bezpieczenstwo)}</p></div>` : ""}
+      <div class="section"><div class="label">Wiadomość dla rodziców ${copyBtn("parents")}</div><p>${esc(r.dla_rodzicow)}</p></div>
+      <div class="section"><div class="label">Wpis do dziennika ${copyBtn("diary")}</div><p>${esc(r.wpis_do_dziennika)}</p></div>`;
+    out.querySelectorAll("[data-copy]").forEach((b) => b.addEventListener("click", () => {
+      const label = b.textContent;
+      try { navigator.clipboard.writeText(texts[b.dataset.copy]).then(() => { b.textContent = "Skopiowano"; setTimeout(() => (b.textContent = label), 1500); }, () => {}); } catch {}
+    }));
+    $("print").addEventListener("click", () => window.print());
+  }
+  go.addEventListener("click", async () => {
+    const req = { topic: $("topic").value.trim(), level: $("level").value, minutes: $("minutes").value, guidelines: guide.value.trim(), needs: chosenNeeds() };
+    if (req.topic.length < 3) { out.innerHTML = '<p class="error">Wpisz temat zajęć.</p>'; $("topic").focus(); return; }
+    go.disabled = true; go.innerHTML = '<span class="spinner"></span>Przygotowuję…';
+    out.innerHTML = '<div class="empty"><span class="spinner"></span>Dobieram kody z podstawy, planuję przebieg i dostosowania. To trwa około 30 sekund…</div>';
+    try {
+      const r = await fetch("/api/plan", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(req) });
+      const data = await r.json();
+      if (data.error) out.innerHTML = `<p class="error">${esc(data.error)}</p>`; else render(data, req);
+    } catch { out.innerHTML = '<p class="error">Brak połączenia. Spróbuj ponownie.</p>'; }
+    go.disabled = false; go.textContent = "Przygotuj konspekt";
+  });
+</script>
+</body>
+</html>

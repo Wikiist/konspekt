@@ -1,0 +1,1476 @@
+{
+ "source": "Dz.U. 2026 poz. 378, załącznik nr 2, I etap edukacyjny",
+ "areas": [
+  {
+   "id": 1,
+   "name": "Edukacja językowa – polonistyczna",
+   "sections": [
+    {
+     "name": "komunikacja",
+     "items": [
+      {
+       "code": "1.1.a",
+       "text": "rozumie komunikaty werbalne i niewerbalne w komunikacji bezpośredniej i adekwatnie na nie reaguje"
+      },
+      {
+       "code": "1.1.b",
+       "text": "wypowiada się w komunikacji bezpośredniej w sposób sensowny i spójny, zrozumiały dla odbiorcy, uwzględniając normy etyki i zasady etykiety językowej oraz okazując wrażliwość kulturową"
+      },
+      {
+       "code": "1.1.c",
+       "text": "używa języka w komunikacji bezpośredniej w sposób dostosowany do sytuacji i intencji komunikacyjnej, dostrzegając znaczenie komunikacji w budowaniu relacji z innymi oraz radzeniu sobie w sytuacjach codziennych (np. zakupy, pytanie o drogę, proszenie o pomoc)"
+      },
+      {
+       "code": "1.1.d",
+       "text": "przyjmuje rolę słuchacza lub mówcy; angażuje się w rozmowę, wykazując empatię i wchodząc w interakcję z rozmówcą"
+      },
+      {
+       "code": "1.1.e",
+       "text": "informuje w rozmowie o faktach oraz własnych emocjach i potrzebach, dążąc do precyzji i zgodności z rzeczywistością"
+      },
+      {
+       "code": "1.1.f",
+       "text": "wyraża w komunikacji bezpośredniej własne opinie, oceny i preferencje, wykazując szacunek dla przekonań rozmówców"
+      },
+      {
+       "code": "1.1.g",
+       "text": "zadaje pytania dostosowane do kontekstu rozmowy lub wypowiedzi innych osób, w tym otrzymanych poleceń i instrukcji, pogłębiając zrozumienie wypowiedzi rozmówców"
+      },
+      {
+       "code": "1.1.h",
+       "text": "aktywnie uczestniczy w rozmowie grupowej: słucha innych, zabiera głos i wypowiada się zgodnie z przyjętymi zasadami komunikacji w grupie"
+      },
+      {
+       "code": "1.1.i",
+       "text": "wykorzystuje język mówiony jako narzędzie wspólnego działania, dzielenia się pomysłami i prezentowania rezultatów pracy indywidualnej i grupowej"
+      },
+      {
+       "code": "1.1.j",
+       "text": "pomaga innym w zrozumieniu informacji w komunikacji bezpośredniej, wspiera porozumienie się w grupie"
+      },
+      {
+       "code": "1.1.k",
+       "text": "rozumie czytane teksty tradycyjne i cyfrowe w komunikacji bezpośredniej, w tym list i e-mail, oraz teksty użytkowe, w tym zaproszenie, ogłoszenie, życzenia, podziękowanie"
+      },
+      {
+       "code": "1.1.l",
+       "text": "określa intencje nadawcy przeczytanego tekstu w komunikacji bezpośredniej"
+      },
+      {
+       "code": "1.1.m",
+       "text": "wykorzystuje przeczytane teksty literackie i nieliterackie oraz inne teksty kultury do rozmowy i wspólnego działania"
+      },
+      {
+       "code": "1.1.n",
+       "text": "tworzy krótkie, spójne i sensowne teksty tradycyjne i cyfrowe w pisemnej komunikacji bezpośredniej, dostosowane do sytuacji i intencji komunikacyjnej, w tym list i e-mail, oraz teksty użytkowe, w tym zaproszenie, ogłoszenie, życzenia, podziękowanie"
+      },
+      {
+       "code": "1.1.o",
+       "text": "wykorzystuje słowo pisane do budowania relacji i współpracy z innymi"
+      }
+     ]
+    },
+    {
+     "name": "odkrywanie i używanie języka",
+     "items": [
+      {
+       "code": "1.2.a",
+       "text": "analizuje i interpretuje wypowiedzi usłyszane w codziennych sytuacjach i w mediach, a także utwory wielomodalne, takie jak audiobook, słuchowisko, film"
+      },
+      {
+       "code": "1.2.b",
+       "text": "podejmuje działania według usłyszanej instrukcji"
+      },
+      {
+       "code": "1.2.c",
+       "text": "tworzy wypowiedzi mówione o różnych funkcjach: informacyjnej, ekspresyjnej, perswazyjnej"
+      },
+      {
+       "code": "1.2.d",
+       "text": "stosuje słownictwo dostosowane do wyrażania treści w języku mówionym"
+      },
+      {
+       "code": "1.2.e",
+       "text": "recytuje wiersze oraz wygłasza z pamięci krótkie teksty prozatorskie"
+      },
+      {
+       "code": "1.2.f",
+       "text": "podejmuje działania lub realizuje projekt, działając według przeczytanej instrukcji"
+      },
+      {
+       "code": "1.2.g",
+       "text": "rozwija zasób słownictwa, aby rozumieć czytane teksty literackie i nieliterackie dotyczące różnych obszarów wiedzy o świecie"
+      },
+      {
+       "code": "1.2.h",
+       "text": "odczytuje z tekstów informacje, opinie i argumenty podane wprost oraz wymagające wnioskowania"
+      },
+      {
+       "code": "1.2.i",
+       "text": "analizuje czytane teksty, wskazując w nich cechy gatunków, takich jak baśń, legenda, opowiadanie, pamiętnik, wypowiedź argumentacyjna, notatka, instrukcja, zaproszenie, ogłoszenie, życzenia, podziękowanie"
+      },
+      {
+       "code": "1.2.j",
+       "text": "bada konstrukcję tekstu, wyróżniając w nim takie elementy, jak dialog, opis, narracja"
+      },
+      {
+       "code": "1.2.k",
+       "text": "rozpoznaje i porządkuje zdarzenia w utworze fabularnym, identyfikuje ich wpływ na bohaterów, odróżnia postacie główne od drugoplanowych i wskazuje ich cechy"
+      },
+      {
+       "code": "1.2.l",
+       "text": "odróżnia elementy świata fikcyjnego od rzeczywistości oraz w świecie fikcji elementy realistyczne od fantastycznych"
+      },
+      {
+       "code": "1.2.m",
+       "text": "ocenia postępowanie bohaterów tekstu kultury i uzasadnia swoją ocenę"
+      },
+      {
+       "code": "1.2.n",
+       "text": "odczytuje znaczenia dosłowne i niedosłowne tekstu, w tym tekstu zawierającego środki stylistyczne, takie jak metafora, epitet, porównanie, rytm, rymy, oraz określa nastrój utworu"
+      },
+      {
+       "code": "1.2.o",
+       "text": "przedstawia propozycję odczytania utworu literackiego i innego tekstu kultury"
+      },
+      {
+       "code": "1.2.p",
+       "text": "wyszukuje w tekstach literackich fragmenty według niego najpiękniejsze, najważniejsze, trudne do zrozumienia"
+      },
+      {
+       "code": "1.2.q",
+       "text": "czyta i charakteryzuje teksty, których lektura dostarcza mu przyjemności"
+      },
+      {
+       "code": "1.2.r",
+       "text": "tworzy sensowne i spójne wypowiedzi pisemne w formach gatunkowych, takich jak opowiadanie, w tym z użyciem opisu, wypowiedź argumentacyjna, opinia, pamiętnik, wiersz, notatka, instrukcja"
+      },
+      {
+       "code": "1.2.s",
+       "text": "w wypowiedziach pisemnych korzysta z zasobu słownictwa odpowiedniego do wyrażania zamierzonych treści oraz stosuje zróżnicowane środki językowe, w tym metaforę, epitet, porównanie, synonimy"
+      },
+      {
+       "code": "1.2.t",
+       "text": "eksperymentuje, bawi się słowem, tworząc wiersze, zagadki, rymowanki, opowiadania"
+      }
+     ]
+    },
+    {
+     "name": "świadomość językowa, w tym wiedza o języku",
+     "items": [
+      {
+       "code": "1.3.a",
+       "text": "rozpoznaje i wyróżnia w wypowiadanych słowach dźwięki: głoski, w tym spółgłoski i samogłoski, sylaby"
+      },
+      {
+       "code": "1.3.b",
+       "text": "stosuje adekwatne do sytuacji elementy języka mówionego: pauzy, intonację, tempo i siłę głosu"
+      },
+      {
+       "code": "1.3.c",
+       "text": "w wypowiedziach mówionych używa odpowiednich form fleksyjnych rzeczowników, przymiotników, liczebników i czasowników"
+      },
+      {
+       "code": "1.3.d",
+       "text": "czyta na głos proste teksty drukowane i pisane, prawidłowo akcentując wyrazy i uwzględniając w intonacji sens wypowiedzeń oraz znaki interpunkcyjne"
+      },
+      {
+       "code": "1.3.e",
+       "text": "stosuje technikę cichego czytania tekstów należących do różnych gatunków"
+      },
+      {
+       "code": "1.3.f",
+       "text": "wykorzystuje podstawową wiedzę na temat słowotwórczej budowy wyrazów, w tym przyrostków i przedrostków, w celu odkrywania znaczenia poznawanych słów w czytanych tekstach"
+      },
+      {
+       "code": "1.3.g",
+       "text": "analizuje i porównuje strukturę wypowiedzeń w tekstach, wyróżniając wypowiedzenia oznajmujące, pytające i rozkazujące oraz wypowiedzenia wykrzyknikowe, rozumie ich funkcje"
+      },
+      {
+       "code": "1.3.h",
+       "text": "czytelnie i poprawnie pisze odręcznie, w tym odróżnia wielkie i małe litery, a także rozmieszcza właściwie tekst ciągły w linii i na stronie"
+      },
+      {
+       "code": "1.3.i",
+       "text": "stosuje poprawnie znaki interpunkcyjne na końcu zdania i przecinki przy wyliczaniu"
+      },
+      {
+       "code": "1.3.j",
+       "text": "zapisuje wyrazy o wysokiej frekwencji, w tym podstawowe skróty, poprawnie pod względem ortograficznym, wykorzystując wiedzę z zakresu fleksji i słowotwórstwa"
+      },
+      {
+       "code": "1.3.k",
+       "text": "w wypowiedziach pisemnych używa odpowiednich form fleksyjnych rzeczowników, przymiotników, liczebników i czasowników"
+      },
+      {
+       "code": "1.3.l",
+       "text": "ocenia i redaguje swoje wypowiedzi pisemne z dbałością o kompozycję, poprawność językową i formę graficzną, wykorzystując otrzymaną informację zwrotną"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Edukacja językowa – język obcy nowożytny",
+   "sections": [
+    {
+     "name": "komunikacja",
+     "items": [
+      {
+       "code": "2.1.a",
+       "text": "rozumie bardzo proste wypowiedzi ustne, artykułowane wyraźnie i powoli"
+      },
+      {
+       "code": "2.1.b",
+       "text": "reaguje werbalnie lub niewerbalnie na bardzo proste polecenia"
+      },
+      {
+       "code": "2.1.c",
+       "text": "odpowiada na bardzo proste pytania, w tym pytania dotyczące danych osobowych, takich jak imię i nazwisko, adres, numer telefonu rodzica"
+      },
+      {
+       "code": "2.1.d",
+       "text": "zadaje bardzo proste pytania dotyczące bliskich mu tematów i spraw"
+      },
+      {
+       "code": "2.1.e",
+       "text": "tworzy według wzoru bardzo proste i krótkie wypowiedzi w bezpośredniej komunikacji ustnej na znany temat (np. przedstawia siebie i innych), opisuje siebie i ludzi, których zna, miejsce, w którym mieszka, swoje zainteresowania i preferencje, nazywa emocje oraz nazywa i opisuje osoby i obiekty z otoczenia oraz podstawowe czynności"
+      },
+      {
+       "code": "2.1.f",
+       "text": "formułuje bardzo proste prośby i reaguje na podobne prośby innych"
+      },
+      {
+       "code": "2.1.g",
+       "text": "uczestniczy w codziennych sytuacjach komunikacyjnych, używając bardzo prostych zwrotów grzecznościowych, w tym formuł powitalnych i pożegnalnych, zwrotów: proszę, przepraszam, dziękuję"
+      },
+      {
+       "code": "2.1.h",
+       "text": "w trakcie zajęć z języka obcego nowożytnego lub w grupie wielojęzycznej pomaga innym w zrozumieniu informacji, wyjaśnia bardzo proste pojęcia i zadania własnymi słowami lub gestami, wspiera porozumienie się w grupie"
+      },
+      {
+       "code": "2.1.i",
+       "text": "aktywnie uczestniczy w rozmowie grupowej: słucha innych, zabiera głos i wypowiada się zgodnie z przyjętymi zasadami komunikacji w grupie"
+      },
+      {
+       "code": "2.1.j",
+       "text": "wykorzystuje przeczytane teksty oraz inne teksty kultury do rozmowy i wspólnego działania"
+      },
+      {
+       "code": "2.1.k",
+       "text": "tworzy krótkie i bardzo proste teksty tradycyjne i cyfrowe według poznanych schematów w pisemnej komunikacji bezpośredniej"
+      },
+      {
+       "code": "2.1.l",
+       "text": "tworzy bardzo proste wypowiedzi pisemne w celu budowania relacji i współpracy z innymi"
+      }
+     ]
+    },
+    {
+     "name": "odkrywanie i używanie języka",
+     "items": [
+      {
+       "code": "2.2.a",
+       "text": "tworzy bardzo proste wypowiedzi ustne, aby przekazać informacje oraz wyrazić uczucia i emocje"
+      },
+      {
+       "code": "2.2.b",
+       "text": "odtwarza z pamięci w całości lub we fragmentach bardzo proste i krótkie teksty: wierszyki, rymowanki, piosenki – indywidualnie lub w grupie"
+      },
+      {
+       "code": "2.2.c",
+       "text": "wykonuje polecenie lub realizuje zadanie według przeczytanej bardzo prostej instrukcji"
+      },
+      {
+       "code": "2.2.d",
+       "text": "rozumie wysłuchane i przeczytane nazwy, słowa i bardzo proste zdania, w tym także nagrania audio i wideo, korzystając dodatkowo z ilustracji, rekwizytów, mimiki, gestów"
+      },
+      {
+       "code": "2.2.e",
+       "text": "zapisuje z pamięci i ze słuchu znane wyrazy, zwroty oraz bardzo proste zdania"
+      },
+      {
+       "code": "2.2.f",
+       "text": "tworzy bardzo proste wypowiedzi pisemne według wcześniej poznanych schematów, w tym informacje o sobie i innych, opisy osób i rzeczy oraz teksty użytkowe: życzenia, podziękowania, pozdrowienia, a także wypełnia bardzo prosty formularz z danymi osobowymi"
+      },
+      {
+       "code": "2.2.g",
+       "text": "korzysta z tradycyjnych materiałów źródłowych lub narzędzi cyfrowych do samodzielnego pogłębiania wiedzy, w tym odkrywania znaczeń nieznanych słów i sprawdzania pisowni"
+      }
+     ]
+    },
+    {
+     "name": "świadomość językowa, w tym wiedza o języku",
+     "items": [
+      {
+       "code": "2.3.a",
+       "text": "rozpoznaje i nazywa litery alfabetu"
+      },
+      {
+       "code": "2.3.b",
+       "text": "rozwija zasób słownictwa związanego z życiem codziennym w obszarach, takich jak: – ja, informacje o mnie (np. imię, nazwisko, miejsce zamieszkania, wiek, hobby, cechy wyglądu i charakteru), – rodzina, przyjaciele, – miejsce zamieszkania, okolica i miejscowość, – dom, pomieszczenia, meble, sprzęty użytku codziennego, – artykuły spożywcze, posiłki i potrawy, – szkoła, sala lekcyjna, przybory szkolne, – zwierzęta i rośliny, – czas, kalendarz, pory roku, miesiące, dni tygodnia, – popularne zawody, – zakupy, sklep, centrum handlowe, – plan dnia, codzienne czynności, – zabawy i zabawki, – zainteresowania, sport, wakacje, – święta i tradycje, – samopoczucie, emocje, – teksty kultury (np. filmy, piosenki, gry) i ich bohaterowie"
+      },
+      {
+       "code": "2.3.c",
+       "text": "poprawnie zapisuje najczęściej używane wyrażenia i wyrazy związane z życiem codziennym i zainteresowaniami, w tym liczby i daty, własne imię i nazwisko, narodowość, obywatelstwo, adres, datę urodzenia"
+      }
+     ]
+    },
+    {
+     "name": "wielojęzyczność i międzykulturowość",
+     "items": [
+      {
+       "code": "2.4.a",
+       "text": "wie, że ludzie posługują się różnymi językami i aby się z nimi porozumieć, trzeba się tych języków nauczyć"
+      },
+      {
+       "code": "2.4.b",
+       "text": "rozpoznaje w swoim otoczeniu elementy różnych kultur (np. tradycji świątecznych, potraw, zabaw) i porównuje je ze sobą w języku polskim"
+      },
+      {
+       "code": "2.4.c",
+       "text": "wyjaśnia znaczenie lub podaje odpowiednik w języku polskim bardzo prostych słów lub zwrotów z języka obcego nowożytnego i odwrotnie"
+      },
+      {
+       "code": "2.4.d",
+       "text": "przedstawia w języku polskim ogólny sens bardzo prostego tekstu wysłuchanego lub przeczytanego w języku obcym nowożytnym"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Edukacja matematyczna",
+   "sections": [
+    {
+     "name": "liczby",
+     "items": [
+      {
+       "code": "5.1.a",
+       "text": "odczytuje, zapisuje, porównuje i porządkuje liczby naturalne w zakresie co najmniej do 10 000"
+      },
+      {
+       "code": "5.1.b",
+       "text": "rozumie, że wartość liczby zależy od liczby cyfr oraz ich położenia w jej zapisie"
+      },
+      {
+       "code": "5.1.c",
+       "text": "rozumie pojęcia: liczba parzysta, liczba nieparzysta"
+      },
+      {
+       "code": "5.1.d",
+       "text": "dolicza do podanej liczby naturalnej i odlicza od podanej liczby naturalnej, po jeden, po dwa, po trzy itp. także z przekroczeniem liczby 0 w stronę liczb ujemnych"
+      },
+      {
+       "code": "5.1.e",
+       "text": "posługuje się modelami osi liczbowej (np. linijką, centymetrem krawieckim, skalą na termometrze, rysunkiem) przy porównywaniu liczb i budowaniu intuicji pojęć „mniejsze o”, „większe o” w kontekstach praktycznych"
+      },
+      {
+       "code": "5.1.f",
+       "text": "dodaje liczby naturalne dwucyfrowe i trzycyfrowe w pamięci lub stosując zapisy wyników cząstkowych"
+      },
+      {
+       "code": "5.1.g",
+       "text": "odejmuje od siebie liczby naturalne dwucyfrowe w przykładach, których wynik jest liczbą naturalną, w pamięci lub stosując zapisy wyników cząstkowych"
+      },
+      {
+       "code": "5.1.h",
+       "text": "mnoży i dzieli liczby naturalne w zakresie tabliczki mnożenia, mnoży liczby dwucyfrowe przez 2, 3, 5, 10, posługuje się tabliczką mnożenia, a także interpretuje dzielenie jako mieszczenie i podział"
+      },
+      {
+       "code": "5.1.i",
+       "text": "dzieli liczby naturalne dwucyfrowe przez 2, 3, 5, 10 w przykładach, gdy wynik jest liczbą naturalną"
+      },
+      {
+       "code": "5.1.j",
+       "text": "tworzy i stosuje własne strategie obliczeń"
+      },
+      {
+       "code": "5.1.k",
+       "text": "odkrywa prawidłowości w dodawaniu, odejmowaniu, mnożeniu i dzieleniu liczb"
+      },
+      {
+       "code": "5.1.l",
+       "text": "znajduje brakującą liczbę w równości „z okienkiem” typu: 7 + ▢ = 19, ▢ + 8 = 21, 9 + 17 = ▢, także w przypadku odejmowania, mnożenia i dzielenia"
+      },
+      {
+       "code": "5.1.m",
+       "text": "posługuje się znakami: +, –, ·, :, <, >, ="
+      },
+      {
+       "code": "5.1.n",
+       "text": "odczytuje i zapisuje w kontekstach praktycznych liczby rzymskie w zakresie co najmniej do XII"
+      },
+      {
+       "code": "5.1.o",
+       "text": "sprawdza poprawność obliczeń, wykorzystując związki między dodawaniem i odejmowaniem oraz mnożeniem i dzieleniem"
+      },
+      {
+       "code": "5.1.p",
+       "text": "odczytuje i zapisuje wybrane ułamki o liczniku 1 (½, ⅓, ¼, ⅕, ⅛), w prostych przypadkach interpretuje część danej całości za pomocą ułamka"
+      }
+     ]
+    },
+    {
+     "name": "miary",
+     "items": [
+      {
+       "code": "5.2.a",
+       "text": "mierzy, zapisuje i odczytuje wyniki pomiaru: czasu, długości, masy, pojemności, w tym odmierza produkty za pomocą miarki i wagi"
+      },
+      {
+       "code": "5.2.b",
+       "text": "mierzy, zapisuje i odczytuje wyniki pomiaru: temperatury, uwzględniając odczyty dodatnie i ujemne, a także oblicza różnice temperatur, w tym te związane ze wzrostem i spadkiem temperatury przechodzącym przez 0 °C"
+      },
+      {
+       "code": "5.2.c",
+       "text": "posługuje się w codziennych sytuacjach jednostkami: kilometr, metr, centymetr, milimetr, tona, kilogram, dekagram, gram, doba, godzina, minuta, sekunda, litr, mililitr"
+      },
+      {
+       "code": "5.2.d",
+       "text": "posługuje się w codziennych sytuacjach jednostkami: złoty, grosz"
+      },
+      {
+       "code": "5.2.e",
+       "text": "zamienia w kontekstach praktycznych jednostki długości: centymetry na milimetry, metry na centymetry oraz kilometry na metry, a w prostych rachunkowo przypadkach także odwrotnie"
+      },
+      {
+       "code": "5.2.f",
+       "text": "zamienia w kontekstach praktycznych jednostki masy: kilogramy na dekagramy oraz kilogramy na gramy, a w prostych rachunkowo przypadkach także odwrotnie"
+      },
+      {
+       "code": "5.2.g",
+       "text": "zamienia w kontekstach praktycznych jednostki czasu: godziny na minuty oraz minuty na sekundy"
+      },
+      {
+       "code": "5.2.h",
+       "text": "wykonuje w kontekstach praktycznych obliczenia pieniężne, m.in związane z budżetem domowym, zakupami, oszczędzaniem, a także odczytuje zapis dziesiętny cen towarów"
+      },
+      {
+       "code": "5.2.i",
+       "text": "posługuje się wyrażeniami dwumianowanymi i w prostych przypadkach zamienia je na wielkości opisane jednym mianem"
+      },
+      {
+       "code": "5.2.j",
+       "text": "porównuje długość przedmiotów, odległość, pojemność, wartość i czas trwania wybranych czynności, szacuje te wielkości oraz sprawdza wynik oszacowania"
+      }
+     ]
+    },
+    {
+     "name": "figury",
+     "items": [
+      {
+       "code": "5.3.a",
+       "text": "rozpoznaje w swoim otoczeniu i opisuje przedmioty w kształcie prostopadłościanu, sześcianu, kuli, walca"
+      },
+      {
+       "code": "5.3.b",
+       "text": "rozpoznaje w swoim otoczeniu i opisuje trójkąty, czworokąty, w tym prostokąty z uwzględnieniem kwadratów, oraz koła, rysuje je, w tym używając przyborów matematycznych"
+      },
+      {
+       "code": "5.3.c",
+       "text": "oblicza obwody trójkątów, prostokątów, w tym kwadratów"
+      },
+      {
+       "code": "5.3.d",
+       "text": "bada różne formy i kształty (np. ornamenty i wzory z kultury regionalnej i sztuki) w poszukiwaniu osi symetrii"
+      },
+      {
+       "code": "5.3.e",
+       "text": "orientuje się w schemacie własnego ciała, wyprowadza kierunki od siebie i od innych osób, ustala i opisuje relacje między obiektami, w przestrzeni i na kartce"
+      },
+      {
+       "code": "5.3.f",
+       "text": "rozpoznaje w kontekstach praktycznych linie równoległe i prostopadłe; posługuje się pojęciami: pion, poziom, skos, a także korzysta z sieci kwadratowej"
+      }
+     ]
+    },
+    {
+     "name": "dane",
+     "items": [
+      {
+       "code": "5.4.a",
+       "text": "odczytuje i interpretuje dane przedstawione za pomocą prostych tabel i diagramów słupkowych"
+      },
+      {
+       "code": "5.4.b",
+       "text": "wyszukuje i porównuje informacje z różnych źródeł, w kontekstach praktycznych"
+      },
+      {
+       "code": "5.4.c",
+       "text": "prezentuje informacje w wybrany sposób (np. za pomocą diagramu, tabeli), także wykorzystując technologie cyfrowe"
+      }
+     ]
+    },
+    {
+     "name": "myślenie matematyczne",
+     "items": [
+      {
+       "code": "5.5.a",
+       "text": "czyta i rozumie proste teksty zawierające treści zmatematyzowane (np. rozkłady jazdy, kalendarz, cenniki, przepisy, instrukcje itp.)"
+      },
+      {
+       "code": "5.5.b",
+       "text": "tworzy dogodny dla siebie sposób rozwiązania zadania, także nietypowego, wykorzystując: rysunek, piktogramy, liczmany, symbole itp."
+      },
+      {
+       "code": "5.5.c",
+       "text": "rozwiązuje zadania tekstowe, tworząc własne strategie, wyjaśnia innym zastosowany sposób rozwiązania"
+      },
+      {
+       "code": "5.5.d",
+       "text": "weryfikuje rozwiązania uzyskane przez siebie i innych i rozmawia o nich"
+      },
+      {
+       "code": "5.5.e",
+       "text": "korzysta z umiejętności strategicznego myślenia, także podczas gier planszowych, kościanych, karcianych"
+      },
+      {
+       "code": "5.5.f",
+       "text": "dostrzega, kontynuuje i opisuje rytmy i regularności przedstawione w różny sposób"
+      },
+      {
+       "code": "5.5.g",
+       "text": "klasyfikuje obiekty i wyjaśnia kryterium klasyfikacji"
+      },
+      {
+       "code": "5.5.h",
+       "text": "wykorzystuje umiejętności matematyczne w codziennych sytuacjach, w tym sytuacjach zakupowych czy związanych z zarządzaniem kieszonkowym czy oszczędzaniem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Edukacja przyrodnicza",
+   "sections": [
+    {
+     "name": "procesy życiowe i różnorodność biologiczna",
+     "items": [
+      {
+       "code": "6.1.a",
+       "text": "bada znaczenie kluczowych procesów życiowych, w tym oddychania, odżywiania i rozmnażania się, dla prawidłowego funkcjonowania organizmów żywych, w tym człowieka"
+      },
+      {
+       "code": "6.1.b",
+       "text": "rozróżnia, na schemacie lub modelu, główne narządy wewnętrzne i zewnętrzne organizmu człowieka, w tym mózg, serce, płuca, żołądek, jelita, skórę, oczy, uszy, nos, i projektuje na podstawie obserwacji i doświadczeń sposoby wspierania ich działania przez ruch, zdrową dietę, higienę oraz regularny kontakt z przyrodą"
+      },
+      {
+       "code": "6.1.c",
+       "text": "rozróżnia podstawowe potrzeby organizmów żywych, w tym potrzebę wody do przebiegu reakcji chemicznych, transportu substancji oraz termoregulacji, potrzebę pokarmu do zapewnienia energii i materiałów budulcowych do rozwoju oraz rozmnażania się, potrzebę tlenu do oddychania komórkowego, potrzebę odpowiedniej temperatury do zachowania funkcji życiowych, opisuje zależności między nimi i formułuje wnioski na podstawie własnych analiz"
+      },
+      {
+       "code": "6.1.d",
+       "text": "obserwuje i dokumentuje zmiany zachodzące w ciele człowieka w cyklu życia"
+      },
+      {
+       "code": "6.1.e",
+       "text": "obserwuje w terenie i rozpoznaje podstawowe gatunki zwierząt i roślin żyjących w najbliższym środowisku oraz wyjaśnia ich znaczenie dla różnorodności biologicznej i konieczność ich ochrony"
+      },
+      {
+       "code": "6.1.f",
+       "text": "na podstawie własnych obserwacji terenowych podaje przykłady sposobów, w jakie rośliny i zwierzęta przystosowują się do różnych warunków środowiskowych (np. długość i głębokość korzeni, kształt, struktura i barwa liści, ubarwienie zwierząt, narządy służące do życia na lądzie, w wodzie, powietrzu, pod ziemią)"
+      },
+      {
+       "code": "6.1.g",
+       "text": "wyjaśnia na podstawie badań, że życie i rozwój roślin zależy od czynników takich, jak: energia słoneczna, gleba, woda, powietrze"
+      },
+      {
+       "code": "6.1.h",
+       "text": "wykazuje w działaniu poczucie odpowiedzialności za przyrodę, szacunek dla wszystkich form życia, m.in. przez segregację odpadów, opiekę nad roślinami i zwierzętami, oszczędzanie wody i energii, niemarnowanie żywności"
+      }
+     ]
+    },
+    {
+     "name": "procesy fizyczne w codzienności ucznia",
+     "items": [
+      {
+       "code": "6.2.a",
+       "text": "obserwuje w terenie i bada działanie różnych sił, w tym grawitacji, tarcia, sprężystości i nacisku, oraz ich wpływ na ruch i zachowanie przedmiotów"
+      },
+      {
+       "code": "6.2.b",
+       "text": "bada właściwości światła (np. tworzy cienie, bada odbicie światła od lśniących powierzchni i rozszczepienie światła, rozpoznaje naturalne i sztuczne źródła światła) i prezentuje wyniki swoich badań"
+      },
+      {
+       "code": "6.2.c",
+       "text": "obserwuje źródła ciepła (np. Słońce, ogień, grzejnik, kuchenka, czajnik), analizuje różne sposoby wykorzystania ciepła w codziennym życiu i prezentuje wyniki swoich badań"
+      },
+      {
+       "code": "6.2.d",
+       "text": "wyjaśnia rolę Słońca jako głównego źródła energii na Ziemi i Układu Słonecznego, korzystając z różnych źródeł informacji i własnych obserwacji"
+      },
+      {
+       "code": "6.2.e",
+       "text": "rozróżnia dźwięki w otoczeniu, eksperymentuje z wytwarzaniem dźwięku i bada jego przemieszczanie się w różnych mediach (np. powietrze, woda, ciała stałe); podaje przykłady pozytywnego i negatywnego wpływu dźwięków na ludzi i zwierzęta"
+      },
+      {
+       "code": "6.2.f",
+       "text": "zachowuje zasady bezpieczeństwa własnego i innych osób podczas działań badawczych"
+      }
+     ]
+    },
+    {
+     "name": "materiały i ich właściwości",
+     "items": [
+      {
+       "code": "6.3.a",
+       "text": "bada materiały, takie jak papier, metal, drewno, plastik, skórę, wełnę, wodę, tkaniny, kamienie, testując ich właściwości, w tym wytrzymałość, higroskopijność, fakturę, twardość, plastyczność, klasyfikuje materiały na naturalne i sztuczne, surowce i przetworzone oraz podaje sposoby ich wykorzystania w codziennym życiu"
+      },
+      {
+       "code": "6.3.b",
+       "text": "rozpoznaje na podstawie wyników własnych badań materiały występujące w trzech stanach skupienia – stałe, ciekłe, gazowe"
+      },
+      {
+       "code": "6.3.c",
+       "text": "bada wpływ wybranych czynników (np. temperatury, siły, zanieczyszczenia) na zmiany zachodzące w materiałach"
+      },
+      {
+       "code": "6.3.d",
+       "text": "przejawia zachowania ukazujące racjonalne korzystanie z materiałów i minimalizujące negatywny wpływ na przyrodę, w tym ograniczające zachowania konsumpcyjne"
+      }
+     ]
+    },
+    {
+     "name": "edukacja klimatyczno-środowiskowa",
+     "items": [
+      {
+       "code": "6.4.a",
+       "text": "na podstawie własnych badań terenowych identyfikuje zależności między elementami przyrody ożywionej i nieożywionej, w tym wpływ światła i wody na wzrost oraz budowę rośliny, zależności pokarmowe, wpływ pogody i warunków atmosferycznych na rośliny oraz zwierzęta, rolę gleby i skał w rozwoju roślin, cykle natury: cykl wody lub cykl życia roślin i zwierząt"
+      },
+      {
+       "code": "6.4.b",
+       "text": "opisuje podstawowe zjawiska związane ze zmianą klimatu, w tym wzrost średnich temperatur w zimie i lecie, przesunięcia sezonów, wcześniejsze kwitnienie roślin, pojawienie się nowych gatunków zwierząt w okolicy lub wymarcie niektórych gatunków, czas migracji ptaków, nowe formy zanieczyszczeń środowiska, nowe formy aktywności ludzi związane z ochroną przyrody, topnienie lodowców, korzystając z wyników własnych działań badawczych (np. prowadzenie dziennika pogody, fotoalbumów zmian w otoczeniu, analiz prognoz pogody i pomiarów ilości opadów, poziomu rzek czy zanieczyszczeń powietrza i wody)"
+      },
+      {
+       "code": "6.4.c",
+       "text": "prezentuje wyniki badań własnych, wskazując przykłady pozytywnego i negatywnego wpływu działalności człowieka na środowisko"
+      },
+      {
+       "code": "6.4.d",
+       "text": "wyjaśnia konieczność oszczędzania zasobów Ziemi w codziennym życiu i proponuje własne pomysły takich działań poparte eksperymentami lub obserwacjami"
+      },
+      {
+       "code": "6.4.e",
+       "text": "analizuje przykłady działań na rzecz klimatu i lokalnego środowiska przyrodniczego i w miarę możliwości włącza się w nie"
+      }
+     ]
+    },
+    {
+     "name": "warsztat przyrodnika",
+     "items": [
+      {
+       "code": "6.5.a",
+       "text": "rozwija ciekawość poznawczą"
+      },
+      {
+       "code": "6.5.b",
+       "text": "formułuje pytania badawcze, planuje i przeprowadza działania badawcze, w tym zbiera oraz dokumentuje dane, analizuje je i wyciąga wnioski"
+      },
+      {
+       "code": "6.5.c",
+       "text": "przedstawia wyniki w wybranej formie graficznej"
+      },
+      {
+       "code": "6.5.d",
+       "text": "posługuje się narzędziami badawczymi, w tym kluczami do oznaczania roślin i zwierząt, lupą, mikroskopem, lornetką, prostym szkłem laboratoryjnym, kompasem, globusem, mapą fizyczną, wagą szalkową, termometrem"
+      },
+      {
+       "code": "6.5.e",
+       "text": "prowadzi badania przyrodnicze w taki sposób, aby nie szkodzić obserwowanym obiektom i uwzględniać ich dobro i potrzeby"
+      },
+      {
+       "code": "6.5.f",
+       "text": "rozpoznaje sytuacje niebezpieczne dla zdrowia i życia oraz stosuje zasady bezpiecznego postępowania wobec zagrożeń ze strony niebezpiecznych zwierząt, trujących roślin i substancji, ruchu drogowego, chorób zakaźnych oraz groźnych zjawisk pogodowych"
+      },
+      {
+       "code": "6.5.g",
+       "text": "wyjaśnia istotę pracy naukowców i nauki"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "Edukacja społeczna",
+   "sections": [
+    {
+     "name": "kompetencje osobiste",
+     "items": [
+      {
+       "code": "7.1.a",
+       "text": "rozpoznaje i nazywa swoje mocne strony, rozwija świadomość swoich osiągnięć oraz wykorzystuje je w działaniu"
+      },
+      {
+       "code": "7.1.b",
+       "text": "wskazuje obszary, w których szczególnie pragnie się rozwijać, a także przykładowe sposoby dbania o rozwój w tych obszarach"
+      },
+      {
+       "code": "7.1.c",
+       "text": "podejmuje próby samooceny; na jej podstawie wprowadza zmiany w swoich zachowaniu i działaniach"
+      },
+      {
+       "code": "7.1.d",
+       "text": "rozpoznaje i nazywa swoje potrzeby i emocje, komunikuje je innym i zwraca się o pomoc do odpowiednich osób w razie potrzeby"
+      },
+      {
+       "code": "7.1.e",
+       "text": "stosuje poznane strategie regulacji emocji adekwatnie do sytuacji"
+      },
+      {
+       "code": "7.1.f",
+       "text": "stosuje poznane strategie radzenia sobie ze stresem i porażką oraz potrafi prosić o wsparcie"
+      },
+      {
+       "code": "7.1.g",
+       "text": "asertywnie reaguje w sytuacjach przekraczania swoich granic, wyrażając własne potrzeby i emocje z poszanowaniem siebie i innych"
+      },
+      {
+       "code": "7.1.h",
+       "text": "rozpoznaje negatywne zachowania ze strony innych związane z namawianiem do niebezpiecznych zachowań, przekraczaniem granic lub łamaniem zasad i reaguje na nie"
+      },
+      {
+       "code": "7.1.i",
+       "text": "rozpoznaje wpływ innych osób, a także mediów i reklamy na swoje decyzje dotyczące wydatków"
+      },
+      {
+       "code": "7.1.j",
+       "text": "rozważa problem z różnych perspektyw, wskazuje jego przyczyny i podejmuje decyzje dotyczące sposobu jego rozwiązania"
+      },
+      {
+       "code": "7.1.k",
+       "text": "ustala priorytety działań, układa plan wykonania zadań, w tym szkolnych lub z życia codziennego, a także realizuje i doprowadza do końca podjęte działania, ocenia ich skuteczność"
+      },
+      {
+       "code": "7.1.l",
+       "text": "dokonuje wyboru sposobu realizacji zadania"
+      },
+      {
+       "code": "7.1.m",
+       "text": "docenia przydatność informacji zwrotnej, korzysta z niej"
+      },
+      {
+       "code": "7.1.n",
+       "text": "pracuje wytrwale nawet w obliczu wyzwań lub trudności"
+      },
+      {
+       "code": "7.1.o",
+       "text": "uczestniczy w aktywnościach związanych z osobistymi zainteresowaniami"
+      },
+      {
+       "code": "7.1.p",
+       "text": "stosuje podstawowe zasady dotyczące zdrowego trybu życia, w tym dbania o higienę jamy ustnej, zbilansowanej diety, aktywności ruchowej oraz regularnego kontaktu z przyrodą"
+      },
+      {
+       "code": "7.1.q",
+       "text": "uświadamia sobie wpływ swoich decyzji na zdrowie"
+      }
+     ]
+    },
+    {
+     "name": "kompetencje społeczne",
+     "items": [
+      {
+       "code": "7.2.a",
+       "text": "okazuje szacunek dla wszystkich ludzi bez względu na ich narodowość, obywatelstwo, przynależność kulturową, wyznanie, kolor skóry, pozycję społeczną, wiek, stan zdrowia itp."
+      },
+      {
+       "code": "7.2.b",
+       "text": "nawiązuje i podtrzymuje relacje społeczne w najbliższym otoczeniu: w rodzinie, klasie i szkole oraz lokalnej wspólnocie"
+      },
+      {
+       "code": "7.2.c",
+       "text": "inicjuje i podtrzymuje współpracę w grupie, a także współtworzy, negocjuje i stosuje zasady działania w grupie"
+      },
+      {
+       "code": "7.2.d",
+       "text": "zgłasza własne pomysły podczas podejmowania decyzji w grupie, przestrzega wspólnie podjętych ustaleń"
+      },
+      {
+       "code": "7.2.e",
+       "text": "rozpoznaje emocje innych i reaguje na nie w adekwatny sposób"
+      },
+      {
+       "code": "7.2.f",
+       "text": "zwraca uwagę na potrzeby innych członków grupy, oferuje pomoc osobie, która jest w potrzebie, nawet jeśli wymaga to od niego wysiłku"
+      },
+      {
+       "code": "7.2.g",
+       "text": "podejmuje próby samodzielnego rozwiązywania konfliktów, stosując elementy mediacji rówieśniczej"
+      },
+      {
+       "code": "7.2.h",
+       "text": "rozpoznaje przejawy przemocy wobec siebie i innych, w tym zastraszanie, dręczenie, cyberprzemoc, i przeciwstawia się im samodzielnie lub prosząc o pomoc dorosłego"
+      },
+      {
+       "code": "7.2.i",
+       "text": "odgrywa odpowiedzialnie role społeczne"
+      },
+      {
+       "code": "7.2.j",
+       "text": "planuje i realizuje we współpracy z innymi działania w klasie i środowisku lokalnym, realizując inicjatywy, współpracując z rówieśnikami i dorosłymi oraz rozwijając postawę obywatelską i odpowiedzialność za wspólne dobro"
+      }
+     ]
+    },
+    {
+     "name": "edukacja obywatelska",
+     "items": [
+      {
+       "code": "7.3.a",
+       "text": "przedstawia na podstawie własnych obserwacji terenowych i różnych źródeł podstawowe elementy krajobrazu lokalnego oraz zagospodarowania przestrzeni i opisuje ich wartość przyrodniczą i kulturową"
+      },
+      {
+       "code": "7.3.b",
+       "text": "określa główne kierunki geograficzne na mapie, wskazuje na niej swoje miejsce zamieszkania i region oraz odczytuje z niej cechy charakterystyczne krajobrazu"
+      },
+      {
+       "code": "7.3.c",
+       "text": "korzysta z map i ilustracji, aby wyjaśnić podstawowe pojęcia geograficzne, takie jak: kontynent, ocean, morze, wyspa, kraj, granica; podaje przykłady z własnego otoczenia"
+      },
+      {
+       "code": "7.3.d",
+       "text": "rozpoznaje Polskę na mapie Europy i świata oraz wskazuje jej stolicę, główne miasta, rzeki i pasma górskie; wskazuje kraje sąsiadujące z Polską"
+      },
+      {
+       "code": "7.3.e",
+       "text": "prezentuje wybrane wydarzenia, obiekty, miejsca i postaci z lokalnej, polskiej oraz europejskiej historii i teraźniejszości oraz wyjaśnia ich znaczenie"
+      },
+      {
+       "code": "7.3.f",
+       "text": "prezentuje w różnych formach informacje o Polakach, którzy są przykładami postaw wartościowych etycznie, w tym dobra, odwagi, mądrości i patriotyzmu"
+      },
+      {
+       "code": "7.3.g",
+       "text": "charakteryzuje patrona swojej szkoły oraz wskazuje aktualnego prezydenta, premiera i marszałka Sejmu Rzeczypospolitej Polskiej"
+      },
+      {
+       "code": "7.3.h",
+       "text": "rozróżnia i opisuje symbole państwowe Polski: flagę, godło i hymn oraz flagę i hymn Unii Europejskiej, a także zachowuje się z szacunkiem podczas śpiewania lub słuchania hymnu oraz wciągania flagi na maszt"
+      },
+      {
+       "code": "7.3.i",
+       "text": "wskazuje wybrane święta państwowe, rozpoznaje zwyczaje lokalne, tradycyjne elementy kultury i języka oraz w miarę możliwości zachowuje je, uczestnicząc w życiu społecznym"
+      },
+      {
+       "code": "7.3.j",
+       "text": "wyjaśnia znaczenie praw i obowiązków ucznia, podstawowych praw człowieka oraz podstawowych praw i obowiązków obywatela, dostrzega ich obecność lub brak w codziennym życiu oraz opisuje konsekwencje niewypełniania praw i obowiązków"
+      },
+      {
+       "code": "7.3.k",
+       "text": "analizuje podstawowe różnice między życiem ludzi w przeszłości i obecnie, korzystając z doświadczeń rodzinnych oraz innych źródeł"
+      },
+      {
+       "code": "7.3.l",
+       "text": "rozumie podstawowe zależności geograficzno-ekonomiczne, w tym skąd pochodzą żywność i inne dobra konsumpcyjne, na czym polega obieg pieniądza w gospodarce"
+      },
+      {
+       "code": "7.3.m",
+       "text": "odróżnia polskie banknoty i monety od banknotów i monet innych państw oraz wie, że waluty można wymieniać"
+      },
+      {
+       "code": "7.3.n",
+       "text": "nazywa różne formy i źródła dochodu w rodzinie i zauważa różnice w dochodach ludzi"
+      },
+      {
+       "code": "7.3.o",
+       "text": "tworzy listę zakupów, odróżniając potrzeby od pragnień (zachcianek), jest przygotowany do podejmowania prostych decyzji zakupowych uwzględniających dostępne środki oraz korzyści wynikające z oszczędzania"
+      },
+      {
+       "code": "7.3.p",
+       "text": "wyjaśnia cel przechowywania pieniędzy w odpowiednich instytucjach finansowych"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Edukacja artystyczna – plastyka i muzyka",
+   "sections": [
+    {
+     "name": "percepcja i interpretacja dzieł plastycznych",
+     "items": [
+      {
+       "code": "8.1.a",
+       "text": "rozpoznaje podstawowe środki wyrazu plastycznego w oglądanych dziełach, w tym barwę, linię, kształt, fakturę"
+      },
+      {
+       "code": "8.1.b",
+       "text": "nazywa emocje wywoływane przez dzieło sztuki"
+      },
+      {
+       "code": "8.1.c",
+       "text": "porównuje dzieła sztuki, uwzględniając różne kryteria, w tym barwę, nastrój"
+      },
+      {
+       "code": "8.1.d",
+       "text": "opisuje wybrane dzieła sztuki, w tym obrazy, rzeźby, ilustracje, filmy, fotografie"
+      },
+      {
+       "code": "8.1.e",
+       "text": "interpretuje znaczenie wybranych symboli lub elementów obecnych w dziele sztuki"
+      }
+     ]
+    },
+    {
+     "name": "twórcze działania plastyczne",
+     "items": [
+      {
+       "code": "8.2.a",
+       "text": "stosuje podstawowe środki wyrazu plastycznego w działaniach twórczych, w tym kontrast barw, rytm, linie, proporcje"
+      },
+      {
+       "code": "8.2.b",
+       "text": "tworzy prace plastyczne inspirowane motywem, wzorem lub obserwacją obiektów i zjawisk przyrodniczych"
+      },
+      {
+       "code": "8.2.c",
+       "text": "stosuje podstawowe techniki plastyczne, w tym rysunek, malarstwo, grafikę, rzeźbę, kolaż, a także dobiera odpowiednie narzędzia i materiały do ich realizacji"
+      },
+      {
+       "code": "8.2.d",
+       "text": "planuje etapy tworzenia pracy plastycznej"
+      },
+      {
+       "code": "8.2.e",
+       "text": "tworzy kompozycje plastyczne inspirowane różnymi doświadczeniami, emocjami, kontaktem ze sztuką i przyrodą"
+      },
+      {
+       "code": "8.2.f",
+       "text": "wykonuje fotografie przyrodnicze, portretowe lub inscenizowane oraz proste animacje"
+      },
+      {
+       "code": "8.2.g",
+       "text": "rozmawia o rezultatach pracy twórczej własnej i zespołowej"
+      }
+     ]
+    },
+    {
+     "name": "kształcenie wrażliwości estetycznej",
+     "items": [
+      {
+       "code": "8.3.a",
+       "text": "dostrzega ład i nieład, regularność i nieregularność, harmonię i dysharmonię w otoczeniu oraz podobieństwa między światem przedstawionym w poznawanej sztuce a otaczającą go rzeczywistością"
+      },
+      {
+       "code": "8.3.b",
+       "text": "na elementarnym poziomie charakteryzuje i ocenia estetykę otoczenia, w tym wystrój otaczających go wnętrz, uporządkowanie przestrzeni i wygląd przedmiotów"
+      },
+      {
+       "code": "8.3.c",
+       "text": "porządkuje, także w wypowiedzi ustnej lub artystycznej, własne otoczenie i przedmioty codziennego użytku"
+      }
+     ]
+    },
+    {
+     "name": "percepcja i interpretacja muzyki",
+     "items": [
+      {
+       "code": "8.4.a",
+       "text": "słucha, także aktywnie, utworów muzyki klasycznej, rozrywkowej i tradycyjnej z różnych kultur i epok"
+      },
+      {
+       "code": "8.4.b",
+       "text": "określa tempo, dynamikę, nastrój utworów w różnorodny sposób"
+      },
+      {
+       "code": "8.4.c",
+       "text": "reaguje ruchem na zmiany tempa, dynamiki, nastroju czy wysokości dźwięku w utworze"
+      },
+      {
+       "code": "8.4.d",
+       "text": "rozpoznaje utwory wykonywane solo i zespołowo: chóralnie lub instrumentalnie"
+      },
+      {
+       "code": "8.4.e",
+       "text": "rozpoznaje w piosence zwrotkę i refren, w utworze muzycznym budowę AB, ABA"
+      },
+      {
+       "code": "8.4.f",
+       "text": "identyfikuje i różnicuje dźwięki, rytmy i melodie w zabawach i grach słuchowych"
+      },
+      {
+       "code": "8.4.g",
+       "text": "rozpoznaje wybrane instrumenty muzyczne, nazywa je i przyporządkowuje do wysłuchanych fragmentów muzyki oraz ilustracji"
+      }
+     ]
+    },
+    {
+     "name": "aktywności muzyczne: śpiew, ruch i gra na instrumentach",
+     "items": [
+      {
+       "code": "8.5.a",
+       "text": "śpiewa piosenki dziecięce, ludowe i okolicznościowe, hymn państwowy i wybrane pieśni patriotyczne"
+      },
+      {
+       "code": "8.5.b",
+       "text": "uczestniczy w zabawach głosowych, ćwiczeniach emisyjnych"
+      },
+      {
+       "code": "8.5.c",
+       "text": "gra na instrumentach melodycznych i niemelodycznych zgodnie z prostym zapisem graficznym – nutowym i beznutowym"
+      },
+      {
+       "code": "8.5.d",
+       "text": "odtwarza proste układy taneczne do piosenek dziecięcych, w tym z użyciem rekwizytów, oraz uczestniczy w zabawach muzyczno-ruchowych i tańcach integracyjnych"
+      },
+      {
+       "code": "8.5.e",
+       "text": "wykonuje podstawowe kroki wybranych tańców narodowych lub ludowych"
+      },
+      {
+       "code": "8.5.f",
+       "text": "odczytuje, używając tataizacji, innych sylab rytmicznych lub gestodźwięków, proste schematy rytmiczne z różnych zapisów"
+      },
+      {
+       "code": "8.5.g",
+       "text": "współpracuje z innymi podczas wspólnego, zespołowego muzykowania"
+      }
+     ]
+    },
+    {
+     "name": "twórcze działania muzyczne",
+     "items": [
+      {
+       "code": "8.6.a",
+       "text": "twórczo wykorzystuje dźwięk, ruch i rytm do wyrażania emocji, nastrojów i pomysłów"
+      },
+      {
+       "code": "8.6.b",
+       "text": "wykorzystuje przedmioty codziennego użytku do zabaw muzycznych"
+      },
+      {
+       "code": "8.6.c",
+       "text": "wykonuje improwizacje instrumentalne i ruchowe, w tym inspirowane dźwiękami przyrody, projektuje rytmy na instrumentach perkusyjnych, odgrywa dialogi muzyczne w parach i zespołowo"
+      },
+      {
+       "code": "8.6.d",
+       "text": "tworzy ruchowe improwizacje do muzyki instrumentalnej lub wokalnej, w tym taniec swobodny, układ gestów zgodnych z rytmem"
+      },
+      {
+       "code": "8.6.e",
+       "text": "tworzy i wykonuje proste akompaniamenty do wybranych utworów muzycznych z użyciem dostępnych instrumentów lub rekwizytów"
+      }
+     ]
+    },
+    {
+     "name": "inne działania artystyczne",
+     "items": [
+      {
+       "code": "8.7.a",
+       "text": "demonstruje wybrane emocje i stany przez ekspresję artystyczną, w tym głosową, muzyczną i ruchową, oraz opowiada o własnych przeżyciach artystycznych"
+      },
+      {
+       "code": "8.7.b",
+       "text": "kreuje postacie sceniczne, nadając im charakter za pomocą różnych środków wyrazu"
+      },
+      {
+       "code": "8.7.c",
+       "text": "interpretuje wybrane teksty kultury, w tym muzyczne i wizualne, i przekłada je na własny język artystyczny"
+      },
+      {
+       "code": "8.7.d",
+       "text": "tworzy scenki dramowe inspirowane literaturą dziecięcą i wydarzeniami z życia codziennego"
+      },
+      {
+       "code": "8.7.e",
+       "text": "stosuje środki wyrazu artystycznego, w tym ruch, głos, rytm, przestrzeń, rekwizyt, instrument; posługuje się elementami scenografii i kostiumu w działaniach teatralnych"
+      },
+      {
+       "code": "8.7.f",
+       "text": "podejmuje we współpracy z innymi działania artystyczne, uwzględniając różne formy komunikacji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Edukacja techniczna i informatyczna",
+   "sections": [
+    {
+     "name": "bezpieczeństwo i higiena",
+     "items": [
+      {
+       "code": "9.1.a",
+       "text": "wskazuje sytuacje niebezpieczne i sposoby reagowania, w tym wymienia podstawowe numery alarmowe, telefon zaufania i szkolne procedury bezpieczeństwa, z których może skorzystać w miarę swoich możliwości"
+      },
+      {
+       "code": "9.1.b",
+       "text": "potrafi wezwać pomoc, w tym przekazać informacje o zdarzeniu i swoje dane"
+      },
+      {
+       "code": "9.1.c",
+       "text": "stosuje podstawowe zasady udzielania pierwszej pomocy w sytuacjach zagrożenia zdrowia lub życia"
+      },
+      {
+       "code": "9.1.d",
+       "text": "reaguje na instrukcje oraz komunikaty wizualne i dźwiękowe, a także stosuje zasady bezpieczeństwa, w tym bezpieczeństwa drogowego, w trakcie wyjść i wycieczek oraz zajęć w bezpośrednim otoczeniu szkoły, także podczas próbnych ewakuacji"
+      },
+      {
+       "code": "9.1.e",
+       "text": "przygotowuje miejsce pracy i zachowuje w nim porządek, przestrzegając zasad bezpieczeństwa, w tym higieny cyfrowej oraz ergonomii określonych w regulaminie pracowni lub klasy"
+      },
+      {
+       "code": "9.1.f",
+       "text": "zachowuje zasady bezpieczeństwa i higieny w sytuacjach życia codziennego, w tym podczas przygotowywania oraz spożywania posiłków"
+      },
+      {
+       "code": "9.1.g",
+       "text": "używa odpowiednich materiałów i posługuje się w sposób bezpieczny prostymi narzędziami, w tym młotkiem, śrubokrętem, igłą, nożyczkami, oraz prostymi urządzeniami technicznymi i cyfrowymi"
+      },
+      {
+       "code": "9.1.h",
+       "text": "stosuje zasady ochrony prywatności i bezpieczeństwa w codziennym i cyfrowym świecie, rozpoznaje i odpowiednio reaguje na sytuacje ryzykowne, dbając o wizerunek i dane osobowe"
+      },
+      {
+       "code": "9.1.i",
+       "text": "współpracuje w grupie, w tym on-line, z poszanowaniem zasad komunikacji i etykiety lub netykiety"
+      },
+      {
+       "code": "9.1.j",
+       "text": "podejmuje samodzielne próby ustalenia przydatności i weryfikowania poprawności informacji uzyskanych z różnych źródeł, w tym generowanych przez sztuczną inteligencję"
+      }
+     ]
+    },
+    {
+     "name": "projektowanie i tworzenie",
+     "items": [
+      {
+       "code": "9.2.a",
+       "text": "planuje i wykonuje własne projekty, w tym projekty zagospodarowania swojego otoczenia i lokalnej przestrzeni, z uwzględnieniem rozwiązań z zakresu adaptacji do zmiany klimatu, wykonując szkice i notatki oraz określając algorytmy w formie słownej, graficznej, a także z wykorzystaniem aplikacji do programowania blokowego"
+      },
+      {
+       "code": "9.2.b",
+       "text": "wykonuje przedmioty użytkowe, dekoracyjne i modele techniczne, a także montuje wybrane urządzenia i przedmioty, wykorzystując oszczędnie dostępne materiały oraz poznane technologie"
+      },
+      {
+       "code": "9.2.c",
+       "text": "wykonuje i edytuje proste materiały cyfrowe, wykorzystując przeglądarkę internetową, podstawowe programy, w tym aplikacje tekstowe, graficzne, filmowe, programowanie blokowe oraz narzędzia oparte na sztucznej inteligencji"
+      },
+      {
+       "code": "9.2.d",
+       "text": "redaguje prostą instrukcję lub wskazówki dotyczące wykorzystania dostępnych narzędzi i urządzeń, w tym cyfrowych"
+      },
+      {
+       "code": "9.2.e",
+       "text": "wykorzystuje zasoby cyfrowe w sposób etyczny, zgodny z prawem autorskim"
+      },
+      {
+       "code": "9.2.f",
+       "text": "analizuje wpływ stosowanych materiałów i technik na środowisko oraz zdrowie, w tym rozpoznaje materiały szkodliwe i bezpieczne"
+      },
+      {
+       "code": "9.2.g",
+       "text": "poszukuje alternatywnych zastosowań materiałów, narzędzi technicznych i rozwiązań algorytmicznych"
+      },
+      {
+       "code": "9.2.h",
+       "text": "prezentuje efekty pracy własnej, w parze lub grupie na forum klasy, wykorzystując dostępne urządzenia i formy"
+      },
+      {
+       "code": "9.2.i",
+       "text": "zauważa i nazywa pozytywne aspekty swojej pracy oraz pracy innych, ocenia efekty działań, formułując i wykorzystując konstruktywną informację zwrotną"
+      },
+      {
+       "code": "9.2.j",
+       "text": "kończy rozpoczętą pracę i potrafi opowiedzieć o jej przebiegu oraz rezultacie ustnie lub pisemnie, także z wykorzystaniem technologii cyfrowych"
+      },
+      {
+       "code": "9.2.k",
+       "text": "wykorzystuje narzędzia i technologie do rozwiązania problemów i realizacji prac z innych obszarów przedmiotowych"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Wychowanie fizyczne",
+   "sections": [
+    {
+     "name": "aktywność fizyczna i bezpieczeństwo",
+     "items": [
+      {
+       "code": "10.1.a",
+       "text": "podejmuje działania na rzecz utrzymania zdrowia, takie jak: dbanie o higienę ciała, wybór stroju sportowego odpowiedniego do miejsca zajęć i pogody, zdrowa dieta, regularny kontakt z przyrodą"
+      },
+      {
+       "code": "10.1.b",
+       "text": "wymienia i rozpoznaje przykłady aktywności fizycznej możliwej do wykonania w domu, w szkole i na świeżym powietrzu"
+      },
+      {
+       "code": "10.1.c",
+       "text": "podejmuje aktywność fizyczną w celu utrzymania zdrowia i zapobiegania wadom postawy, wykonuje systematycznie ćwiczenia fizyczne"
+      },
+      {
+       "code": "10.1.d",
+       "text": "wykonuje rozgrzewkę i wyjaśnia jej cel"
+      },
+      {
+       "code": "10.1.e",
+       "text": "przestrzega zasad zabaw i gier ruchowych oraz zespołowych"
+      },
+      {
+       "code": "10.1.f",
+       "text": "stosuje zasady bezpiecznego poruszania się pieszo, na rowerze, hulajnodze i rolkach, a także zna główne znaki drogowe"
+      },
+      {
+       "code": "10.1.g",
+       "text": "stosuje zasady bezpieczeństwa w czasie aktywności plenerowych, w tym nad wodą, w lesie i górach"
+      }
+     ]
+    },
+    {
+     "name": "sprawność fizyczna",
+     "items": [
+      {
+       "code": "10.2.a",
+       "text": "chodzi, maszeruje, biega ze zmianą kierunku i tempa, zachowując rytm i koordynację"
+      },
+      {
+       "code": "10.2.b",
+       "text": "skacze, podskakuje i przeskakuje – obunóż, jednonóż, w miejscu i w ruchu, przez przeszkody, w dal z miejsca i rozbiegu, przez skakankę lub gumę"
+      },
+      {
+       "code": "10.2.c",
+       "text": "wspina się na niskich wysokościach"
+      },
+      {
+       "code": "10.2.d",
+       "text": "czołga się w różnych kierunkach i pod przeszkodami"
+      },
+      {
+       "code": "10.2.e",
+       "text": "rzuca jednorącz małymi przyborami do celu nieruchomego i ruchomego"
+      },
+      {
+       "code": "10.2.f",
+       "text": "podaje przybory oburącz sprzed klatki piersiowej i znad głowy, w miejscu i w ruchu, a także chwyta je w miejscu i w ruchu"
+      },
+      {
+       "code": "10.2.g",
+       "text": "uderza piłkę nogą w miejscu i w ruchu, do partnera lub celu, z różną siłą i w różnych kierunkach"
+      },
+      {
+       "code": "10.2.h",
+       "text": "odbija piłkę oburącz lub jednorącz w górę i w kierunku partnera"
+      },
+      {
+       "code": "10.2.i",
+       "text": "wykonuje podstawowe ćwiczenia techniczne z piłką lub innym przyborem charakterystycznym dla gier zespołowych: kozłuje w miejscu i w ruchu, podaje i chwyta, odbija, uderza, prowadzi, rzuca, uderza do celu"
+      },
+      {
+       "code": "10.2.j",
+       "text": "toczy, podnosi i przenosi przybory"
+      },
+      {
+       "code": "10.2.k",
+       "text": "utrzymuje równowagę w pozycjach statycznych i dynamicznych, z przyborem i bez"
+      },
+      {
+       "code": "10.2.l",
+       "text": "wykonuje rotacje ciała wokół osi pionowej i poziomej, w tym obroty w miejscu i w ruchu, przewroty w przód z przysiadu podpartego"
+      },
+      {
+       "code": "10.2.m",
+       "text": "przenosi ciężar ciała z jednej strony na drugą"
+      },
+      {
+       "code": "10.2.n",
+       "text": "utrzymuje prawidłową postawę ciała w różnych pozycjach"
+      },
+      {
+       "code": "10.2.o",
+       "text": "wykonuje ćwiczenia rytmiczne przy muzyce"
+      },
+      {
+       "code": "10.2.p",
+       "text": "uczestniczy w zabawach i grach ruchowych oraz grach zespołowych"
+      },
+      {
+       "code": "10.2.q",
+       "text": "korzysta z dostępnego sprzętu sportowego, zachowując zasady bezpieczeństwa"
+      },
+      {
+       "code": "10.2.r",
+       "text": "współpracuje z innymi przy planowaniu i realizacji zabaw ruchowych"
+      },
+      {
+       "code": "10.2.s",
+       "text": "przestrzega zasad fair play w zabawach i grach ruchowych oraz grach zespołowych"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Etyka",
+   "sections": [
+    {
+     "name": "ja i etyka",
+     "items": [
+      {
+       "code": "11.1.a",
+       "text": "odróżnia ocenę etyczną, w tym dobre i złe działania, postawy, cele, od innych ocen, w tym: estetycznej – piękne i brzydkie wytwory kultury praktycznej – użyteczne i nieużyteczne przedmioty, działania, a także poznawczej – prawdziwe i fałszywe sądy"
+      },
+      {
+       "code": "11.1.b",
+       "text": "formułuje proste oceny etyczne w odniesieniu do codziennych doświadczeń oraz poznanych tekstów kultury i uzasadnia je w dyskusji"
+      },
+      {
+       "code": "11.1.c",
+       "text": "posługuje się nazwami postaw etycznie wartościowych, takimi jak: sprawiedliwość, szacunek, życzliwość, uczciwość, odpowiedzialność, odwaga, solidarność, troska, przyjaźń, miłość, a także wskazuje przykłady działań będących ich przejawem"
+      },
+      {
+       "code": "11.1.d",
+       "text": "odróżnia działania, postawy i cele etycznie wartościowe od nieetycznych"
+      },
+      {
+       "code": "11.1.e",
+       "text": "na podstawie codziennych doświadczeń i poznanych tekstów kultury formułuje normy moralne, w tym obowiązki moralne, wynikające z tych doświadczeń i tekstów"
+      }
+     ]
+    },
+    {
+     "name": "ja i moje życie",
+     "items": [
+      {
+       "code": "11.2.a",
+       "text": "ocenia pod względem etycznym własne postawy, cele i działania oraz określa konsekwencje tych działań dla siebie i innych"
+      },
+      {
+       "code": "11.2.b",
+       "text": "wskazuje i podejmuje działania będące przejawem szacunku dla siebie i troski o samego siebie"
+      },
+      {
+       "code": "11.2.c",
+       "text": "wskazuje przykłady swoich praw i obowiązków – dziecka, ucznia, człowieka – i korzysta z nich we własnym codziennym doświadczeniu"
+      }
+     ]
+    },
+    {
+     "name": "ja wśród ludzi",
+     "items": [
+      {
+       "code": "11.3.a",
+       "text": "ocenia pod względem etycznym postawy innych osób, ich cele i działania oraz określa konsekwencje tych działań dla siebie i pozostałych członków społeczności"
+      },
+      {
+       "code": "11.3.b",
+       "text": "wskazuje postawy etycznie wartościowe wobec innych, w tym szacunek, życzliwość, solidarność, troskę, odpowiedzialność, oraz podejmuje działania będące ich przejawem, zwłaszcza wobec słabszych, wykluczanych, należących do mniejszości"
+      },
+      {
+       "code": "11.3.c",
+       "text": "wskazuje i ocenia pod względem etycznym normy moralne ustanawiane przez grupy i wspólnoty, do których należy, w tym także nieformalne grupy rówieśnicze"
+      },
+      {
+       "code": "11.3.d",
+       "text": "wskazuje postawy służące współpracy, zaufaniu, integracji w grupie i wspólnocie i podejmuje działanie będące ich przejawem"
+      },
+      {
+       "code": "11.3.e",
+       "text": "przeciwstawia się w sposób etycznie wartościowy działaniom agresywnym wobec siebie i innych"
+      }
+     ]
+    },
+    {
+     "name": "ja i przyroda",
+     "items": [
+      {
+       "code": "11.4.a",
+       "text": "ocenia pod względem etycznym postawy, cele i działania wobec przyrody oraz określa konsekwencje tych działań dla środowiska"
+      },
+      {
+       "code": "11.4.b",
+       "text": "wskazuje i podejmuje działania będące przejawem odpowiedzialności za środowisko i troski o przyrodę"
+      },
+      {
+       "code": "11.4.c",
+       "text": "wskazuje przykłady zachowań zwierząt jako istot czujących"
+      },
+      {
+       "code": "11.4.d",
+       "text": "przeciwstawia się w sposób etycznie wartościowy działaniom szkodliwym dla środowiska i krzywdzącym zwierzęta"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "experiences": [
+  {
+   "code": "D.1",
+   "text": "Uczeń przynajmniej cztery razy w roku szkolnym uczestniczy w rozgrywkach klasowych lub szkolnych z wykorzystaniem gier planszowych, kościanych lub karcianych, które są dobrane pod kątem rozwijania logicznego i strategicznego myślenia, a także bierze udział w wyborze gier, przygotowuje i notuje wyniki rozgrywek w zaplanowany przez siebie sposób, a po zakończeniu gry analizuje zastosowane strategie"
+  },
+  {
+   "code": "D.2.1",
+   "text": "raz w roku: wybiera książkę do indywidualnej lektury i prezentuje ją"
+  },
+  {
+   "code": "D.2.2",
+   "text": "raz w roku: w grupie wybiera lekturę do pracy podczas zajęć"
+  },
+  {
+   "code": "D.2.3",
+   "text": "raz w roku: w grupie realizuje zadanie, używając nauczanego języka obcego nowożytnego (np. wymiana listów, kartek z równoległą klasą ze szkoły za granicą, spotkanie z native speaker)"
+  },
+  {
+   "code": "D.2.4",
+   "text": "raz w roku: tworzy własny instrument, lalkę, maskę lub scenografię, wykorzystując je w działaniach artystycznych"
+  },
+  {
+   "code": "D.2.5",
+   "text": "raz w roku: bierze udział w wydarzeniu kulturalnym (w zwiedzaniu muzeum, koncercie, spektaklu) na żywo lub on-line"
+  },
+  {
+   "code": "D.3.1",
+   "text": "raz w etapie: w grupie zakłada i prowadzi uprawę roślin (np. kwietnej łąki z roślinami nektaroi pyłkodajnymi, ogródka ziołowego, ogródka warzywnego)"
+  },
+  {
+   "code": "D.3.2",
+   "text": "raz w etapie: uczestniczy w przygotowaniu i realizacji wydarzenia artystycznego prezentowanego poza klasą (np. w spektaklu teatralnym)"
+  },
+  {
+   "code": "D.3.3.a",
+   "text": "projekt edukacyjny raz w etapie: przedsiębiorczości (np. sklepik, kiermasz charytatywny)"
+  },
+  {
+   "code": "D.3.3.b",
+   "text": "projekt edukacyjny raz w etapie: tożsamości i społeczności lokalnej lub regionalnej (np. dziedzictwo lokalne, tradycje i zwyczaje, gwary, atrakcyjność regionu)"
+  },
+  {
+   "code": "D.3.3.c",
+   "text": "projekt edukacyjny raz w etapie: ochrony środowiska, ekologii, klimatu (np. różnorodność biologiczna, oszczędzanie zasobów, recykling, odpowiedzialne zakupy)"
+  },
+  {
+   "code": "D.3.3.d",
+   "text": "projekt edukacyjny raz w etapie: zagospodarowania przestrzeni (np. projektowanie przestrzeni osiedla, parku, placu zabaw, z uwzględnieniem uwarunkowań estetycznych, przyrodniczych, w tym ochrony przyrody, i potrzeb społecznych)"
+  },
+  {
+   "code": "D.3.3.e",
+   "text": "projekt edukacyjny raz w etapie: konstrukcji prostych maszyn technicznych (np. proste maszyny z przekładniami zębatymi i dźwigniami, maszyny przepływowe, pochylnie)"
+  },
+  {
+   "code": "D.3.3.f",
+   "text": "projekt edukacyjny raz w etapie: modelowania (np. tworzenie modelu urządzenia lub układu elementów, który umożliwia obserwację siły grawitacji, oporu, tarcia, siły napędowej, naprężającej, rozciągającej, elektromotorycznej lub innych sił)"
+  },
+  {
+   "code": "D.3.3.g",
+   "text": "projekt edukacyjny raz w etapie: programowania (np. sekwencja ruchów robota po trasie, programowanie urządzenia, przesuwanie przedmiotów po macie, budowanie wieży z kubków, algorytm opisujący kroki działania)"
+  },
+  {
+   "code": "D.3.3.h",
+   "text": "projekt edukacyjny raz w etapie: problemów społecznych (np. rozwiązanie problemu, który uczniowie zaobserwowali w klasie, szkole lub okolicy, w tym opieka nad zwierzętami, aktywność na rzecz lokalnej społeczności)"
+  },
+  {
+   "code": "D.3.3.i",
+   "text": "projekt edukacyjny raz w etapie: zdrowia (np. odżywianie, ruch, zdrowe nawyki, monitorowanie zdrowia)"
+  }
+ ]
+}
